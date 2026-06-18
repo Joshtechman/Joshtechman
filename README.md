@@ -9,7 +9,7 @@
 
 <h2>📺 Certifications
 
-- [ M.Sc. Computer Science](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [ M.Sc. Computer Science]
   
 
 <h2> 🤳 Connect with me:</h2>
@@ -23,7 +23,7 @@
 
 [youtube]: https://www.youtube.com/@nebuneuwajeh7921
 
-[instagram]: https://www.instagram.com/nb_xtraodinary/
+[instagram]: https://www.instagram.com/nb_xtraoodinary/
 
 [linkedin]: https://www.linkedin.com/in/nebuneuwajeh
 
