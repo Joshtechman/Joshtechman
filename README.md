@@ -20,6 +20,12 @@
 <br />
 
 <p align="center">
+  📄 <a href="https://www.researchgate.net/publication/385249231_The_Use_of_Artificial_Intelligence_to_Improve_Voter_Registration_and_Verification_Process_in_Nigeria">The Use of AI to Improve Voter Registration & Verification in Nigeria</a> — ResearchGate
+</p>
+
+<br />
+
+<p align="center">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
